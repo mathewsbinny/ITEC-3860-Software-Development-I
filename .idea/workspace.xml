@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="569bf1c4-4908-4110-8f24-3b2d53a666f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DBTutorial/Game.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/room.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/GameStart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/controller/CreateFilesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/controller/GameController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/controller/GameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/controller/Monster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/controller/MonsterRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/controller/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/controller/UIController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/model/DB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/model/GameDBCreate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/model/MonsterDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/model/MonsterRoomDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/model/RoomDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/model/SQLiteDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/view/ConsoleUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/view/GameUI.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/view/GameUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/src/view/game.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/GameStart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/controller/CreateFilesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/controller/GameController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/controller/GameException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/controller/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/controller/MonsterRoom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/controller/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/controller/UIController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/model/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/model/GameDBCreate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/model/MonsterDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/model/MonsterRoomDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/model/RoomDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/model/SQLiteDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/view/ConsoleUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/view/GameUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/view/GameUI.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DBTutorial/target/production/DBTutorial/view/game.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitAssignment/gitExperiment/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitPractice/gitPractice/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitPractice/gitPractice/example.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitPractice/gitPractice2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitPractice/gitPractice2/practice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitExercise/Prime/PrimeFactors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitExercise/Prime/PrimeFactorsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/RoomData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/MiniGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/PLAYER_MAP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/PLAYER_README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/model/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/model/Exit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/model/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/resources/MAP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/resources/rooms.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/resources/roomstester.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame/src/util/FileReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/Exit.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/Mini2.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/Rooms.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/MiniGame2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/controller/CreateFilesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/controller/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/controller/Exit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/controller/GameController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/controller/GameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/controller/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/controller/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/model/DB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/model/GameDBCreate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/model/RoomDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/model/SQLiteDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame2/src/view/ConsoleUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/Exit3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/ItemRoom3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/Items3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/Mini3.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/Rooms3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/controller/Commands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/controller/CreateFilesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/controller/Exit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/controller/GameController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/controller/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/controller/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/controller/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/gameExceptions/GameException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/model/DB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/model/ExitDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/model/GameDBCreate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/model/ItemDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/model/ItemRoomDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/model/PlayerDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/model/PlayerItemDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/model/RoomDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/model/SQLiteDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiniGame3/src/view/Adventure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2mpRfMbyB53EVxLElbmqJgNPWZ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="569bf1c4-4908-4110-8f24-3b2d53a666f8" name="Changes" comment="" />
+      <created>1727771638517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727771638517</updated>
+      <workItem from="1727771639613" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
