@@ -1,0 +1,33 @@
+
+MAP OF THE OUTPOST
+
+
+                       ___( 8 )___
+		       |         |
+		       |    3    |
+		       |         |
+_______________________|_________|________________________
+|             |				  |              |
+|             |				  |              |
+|       7     |				  |       5      |
+|             |				  |              |
+|_____________|		    2    	  |______________|
+|             |				  |		 |
+|             |				  |		 |
+|       6     |				  |	  4      |
+|__           |				  |		 |
+|9_|__________|___________________________|______________|
+			|	|
+			|   1   |
+			|	|
+			|_______|
+
+1. The Ruined Gatehouse
+2. The Courtyard of Sorrows
+3. The Officer's Quarters
+4. The Empty Barracks
+5. The Mess Hall
+6. The Looted Storage Hall
+7. The Collapsed Magazine
+8. The Tall Tower
+9. The Musty Cellars

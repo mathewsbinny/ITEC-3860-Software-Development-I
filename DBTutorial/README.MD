@@ -1,0 +1,1 @@
+This is an example project to use JDBC to read from a database and to update a record.

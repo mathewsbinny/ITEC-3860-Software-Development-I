@@ -1,0 +1,9 @@
+1|  Courtyard      |       Courtyard in front of the school          |   NORTH=2
+2|  Main Hallway   |       Main hallway of first floor               |   NORTH=3,EAST=4,WEST=7
+3|  Main Staircase |       Main staircase				             |	 UP=8,EAST=5,WEST=6
+4|  Class1         |       First classroom                           |	 NORTH=5,WEST=2
+5|  Class2         |       Second classroom                          |	 SOUTH=4,WEST=3
+6|	Cafeteria      |       You are in the cafeteria			         |	 NORTH=9,EAST=3
+7|	Storage Closet |       This is the storage room			         |	 EAST=2
+8|	Roof  	       |       You are on the roof			             |	 DOWN=3
+9|	Playground     |       You are in the playground		         |	 SOUTH=6
